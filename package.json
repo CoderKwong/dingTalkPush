@@ -1,0 +1,27 @@
+{
+  "name": "dingtalkpush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderKwong/dingTalkPush.git"
+  },
+  "keywords": [
+    "dingding",
+    "dingtalk",
+    "robot"
+  ],
+  "author": "kwong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderKwong/dingTalkPush/issues"
+  },
+  "homepage": "https://github.com/CoderKwong/dingTalkPush#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
